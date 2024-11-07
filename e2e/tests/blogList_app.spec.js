@@ -197,3 +197,5 @@ describe('Blog App', () => {
   })
 
 // npx playwright codegen http://localhost:5174/
+
+// npm test -- --project chromium
